@@ -16,6 +16,7 @@ We use a standard GitHub namespace for versioning. For the versions available, s
 
 ## Authors
 
+* **Nicholas Reichert** - *Code base* - [Cin316](https://github.com/Cin316)
 * **Austin Poonia** - *Initial work* - [WTPGaming](https://github.com/WTPGaming/)
 
 See also the list of [contributors](https://github.com/WTPGaming/OMZP/contributors) who participated in this project.
@@ -26,6 +27,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to cin316 for his hospitality and encouragment to continue this project!
+* Hat tip to Cin316 for his hospitality and encouragment to continue this project!
 * Thanks to all my lovely supporters on [spigotMC!](https://spigotmc.org)
 * And a warm thank you to all of my frineds that help me with the R&D required for this *MASSIVE* project!
