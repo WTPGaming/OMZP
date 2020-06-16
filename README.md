@@ -3,8 +3,9 @@ A rewritten version of MineZ written to work on modern Minecraft
 
 ## Built With
 
-* [Maven](https://maven.apache.org/) - Dependency Management and as a soure code editor
+* [IntelliJ](https://www.jetbrains.com/idea/) - IDE
 * [Notepad++](https://notepad-plus-plus.org/) - Used for on the go changes to code
+* [JD-GUI](http://java-decompiler.github.io/) - Java decompiler
 
 ## Contributing
 
@@ -16,8 +17,9 @@ We use a standard GitHub namespace for versioning. For the versions available, s
 
 ## Authors
 
-* **Nicholas Reichert** - *Code base* - [Cin316](https://github.com/Cin316)
+* **Nicholas Reichert** - *Code base* - [Cin316](https://github.com/Cin316/)
 * **Austin Poonia** - *Initial work* - [WTPGaming](https://github.com/WTPGaming/)
+* **_ForgeUser12157924** - *Original work* - [_ForgeUser12157924](https://www.curseforge.com/members/_ForgeUser12157924/projects)
 
 See also the list of [contributors](https://github.com/WTPGaming/OMZP/contributors) who participated in this project.
 
